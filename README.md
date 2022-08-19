@@ -18,7 +18,7 @@ I'm **Kuhu Bhatnagar** (aka **aSagCoder**), a 3rd Year Comp Sci Engineering stud
 **Q - Why Sudoku?**<br>
 **A -** As a teen, one of the few things me and my grandparents connected over, despite the generational gap, was Sudoku. I would visit them for the summer and on days when it was too hot to go outside and travel, we would each pull out a sudoku puzzle on a sudoku book or on phones and immerse ourselves into it, solving as many puzzles as we can. While I am not a Sudoku Master, I do aspire to compete professionally someday and looking back at this puzzle brings back fond memories. This made me think that perhaps a project on it would be very apt for me to learn and execute. <br>
 
-_**Last updated - 20/08/2022 **_<br>
+_**Last updated - 20/08/2022**_<br>
 
-**Contact me - **<br>
-Twitter, Instagram - @asagcoder
+**Contact me -**<br>
+**Twitter, Instagram -** @asagcoder
